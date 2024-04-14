@@ -5,6 +5,9 @@ module.exports = {
         require('tailwindcss'),
         require('autoprefixer'),
       ],
+      eslint: {
+        enable: false,
+      },
     },
   },
 }
