@@ -11,7 +11,7 @@ export const projects = [
     subtitle: "React and Python",
     description:
       "A web platform for Krishi Bhavan authorities to manage notifications, schemes, and complaints with an admin panel, sorted notifications, filterable schemes, and a complaint form.",
-    image: "./page 1 home.png",
+    image: "./agrib.png",
     link: "https://github.com/afnaayshu/AgriBulletin_MiniProject",
   },
   {
@@ -27,14 +27,14 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "sample testimonial 1",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
     company: "Zoozle",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "sample testimonial 2",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Ruben Alvarez",
     company: "Dooble.io",
@@ -42,10 +42,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Python",
+  "Java",
+  "Internet of Things",
+  "AI ML",
+  "RPA",
+  "Graphic Design using Adobe Photoshop and Figma",
 ];
