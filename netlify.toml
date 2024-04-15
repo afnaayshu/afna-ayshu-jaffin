@@ -1,5 +1,5 @@
 [build]
-  command = "craco build"
+  command = "npm run build"
   publish = "public"
   base = "public"
 
